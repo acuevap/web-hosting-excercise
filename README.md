@@ -1,3 +1,6 @@
+# personalization   
+learning how to use this README.md
+
 # student-site
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
